@@ -1,0 +1,7 @@
+{
+  "name": "tombraul",
+  "version": "1.0.0",
+  "bin": {
+    "tombraul": "index.js"
+  }
+}
